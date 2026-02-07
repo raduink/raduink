@@ -67,21 +67,16 @@ Learning Vue.js & React.
 
 ```javascript
 const socials = {
-  github: "wdymradu",
-  website: "https://ofradu.xyz",
-  youtube: "ofradu",
+  github: "radu",
+  website: "https://radu.ink"
 }
 ```
-
-<div>
-<a href="https://ofradu.xyz"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://github.com/wdymradu"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://youtube.com/c/ofradu"><img src="https://img.shields.io/badge/youtube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a> 
-</div>
 
 ## 📫 How to reach me
 
 ```javascript
 const contact = {
-  email: "dot@ofradu.xyz",
+  email: "getintouch@radu.ink",
 }
 ```
 
