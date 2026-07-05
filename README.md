@@ -2,15 +2,13 @@
 
 # 👋 Hey, I'm Radu
 
-### Full Stack Developer • Open Source • Security • Infrastructure
+### Full Stack Developer • UI/UX Enthusiast • Building Products That Matter
 
-Building modern web applications, APIs and community-driven projects.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=Building+Hirio.;Creating+Open+Source+Projects.;Discord+%26+FiveM+Developer.;Always+Learning+Something+New." />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=raduink&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/raduink?style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/stars/raduink?affiliations=OWNER&style=for-the-badge&color=0e75b6"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=raduink&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -18,121 +16,128 @@ Building modern web applications, APIs and community-driven projects.
 
 # 🚀 About Me
 
-```js
+```ts
 const radu = {
-    location: "Romania",
-    languages: ["JavaScript", "TypeScript"],
-    backend: ["Node.js", "Express", "Next.js"],
-    frontend: ["React", "Next.js"],
-    database: ["Supabase", "PostgreSQL"],
-    cloud: ["Cloudflare", "Docker", "Linux", "GitHub Actions"],
-    interests: [
-        "Open Source",
-        "Cyber Security",
-        "Infrastructure",
-        "Discord Communities"
+    name: "Radu",
+    country: "Romania",
+    stack: [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Next.js",
+        "Supabase",
+        "Discord.js",
+        "FiveM"
+    ],
+
+    currentlyBuilding: [
+        "Hirio",
+        "Open Source APIs",
+        "Developer Tools"
+    ],
+
+    focus: [
+        "Clean UI",
+        "Modern UX",
+        "Performance",
+        "Automation"
     ]
 }
 ```
 
 ---
 
-# 🌐 Projects
+# ⚡ Current Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔴 **scammers.ro** | Community driven Discord scam reporting platform |
-| ⚡ **Free APIs** | Public APIs for developers |
-| 🤖 **Discord Bots** | Modern utility & moderation bots |
-| ☁️ **Infrastructure** | VPS, Cloudflare & self-hosted services |
+### 🚀 Hirio
+> Modern careers platform.
 
----
+### 🔥 Free APIs
+> Open-source APIs for developers.
 
-# 🛠️ Tech Stack
+### 🤖 Discord Ecosystem
+> Bots, automation & moderation systems.
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,express,html,css,tailwind,supabase,postgres,docker,linux,cloudflare,git,github,vscode,npm"/>
-
-</p>
+### 🎮 FiveM Development
+> Scripts, utilities & backend systems.
 
 ---
 
-# 📈 GitHub Statistics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=raduink&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=raduink&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,supabase,mysql,mongodb,git,github,vscode,cloudflare,docker,linux,discord"/>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raduink&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&hide_border=true&theme=transparent"/>
 
-</p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raduink&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=raduink&theme=github-compact&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raduink&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raduink&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-</p>
-
----
-
-# 📌 Featured Repositories
-
-> Pin your favorite repositories below your profile.
-
-Recommended:
-
-- scammers.ro
-- password-generator-api
-- username-generator-api
-- random-user-api
-- discord-bot
-- any infrastructure project
+</div>
 
 ---
 
-# 📫 Contact
+# 🌌 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<a href="https://radu.ink">
-<img src="https://img.shields.io/badge/Website-radu.ink-0A66C2?style=for-the-badge"/>
-</a>
+<img src="https://raw.githubusercontent.com/raduink/raduink/output/github-contribution-grid-snake-dark.svg"/>
 
-<a href="mailto:sendto@radu.ink">
-<img src="https://img.shields.io/badge/Email-sendto@radu.ink-222222?style=for-the-badge"/>
-</a>
+</div>
+
+---
+
+# 🌍 Connect
+
+<div align="center">
 
 <a href="https://github.com/raduink">
-<img src="https://img.shields.io/badge/GitHub-raduink-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://hirio.ro">
+<img src="https://img.shields.io/badge/Hirio-111111?style=for-the-badge"/>
+</a>
+
+<a href="https://radu.ink">
+<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Building useful tools for developers & communities.
+## ⚡ "Code. Build. Improve. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:2d2d2d&section=footer"/>
 
 </div>
