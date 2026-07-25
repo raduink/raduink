@@ -72,32 +72,11 @@ const radu = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raduink&theme=transparent&hide_border=true" />
 
 <br><br>
 
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=raduink&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raduink&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/raduink/raduink/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
