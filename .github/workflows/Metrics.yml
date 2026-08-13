@@ -1,0 +1,30 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: raduink
+          filename: metrics.svg
+          template: classic
+          base: header, activity, repositories
+          config_timezone: Europe/Bucharest
+          config_theme: dark
+          plugin_lines: yes
+          plugin_languages: yes
+          plugin_languages_limit: 6
