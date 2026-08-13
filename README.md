@@ -117,9 +117,6 @@ Lucrez pe tot lanțul: arhitectură, backend, interfață și infrastructura pe 
 
 <br>
 
-<img width="49%" src="metrics.svg" alt="GitHub metrics" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=raduink&hide_border=true&background=00000000&stroke=2b2b2b&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8b8b8b&dates=8b8b8b" />
-
 </div>
 
 <br>
