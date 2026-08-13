@@ -43,11 +43,11 @@ Two products under the **Hirio** brand — one live, one in the making.
 
 <br>
 
-Platformă de date construită pentru viteză și claritate — structurare, interogare și administrare a informației dintr-o singură interfață.
+Bază de date construită de la zero, integral de mine — cu până la **10% mai rapidă** și mai eficientă decât soluțiile existente de pe piață.
 
 <br>
 
-`Next.js` `TypeScript` `PostgreSQL` `Supabase`
+`Custom engine` `Built from scratch` `TypeScript`
 
 <div align="center">
   <br>
@@ -101,6 +101,33 @@ Lucrez pe tot lanțul: arhitectură, backend, interfață și infrastructura pe 
 
 <br>
 
+## ▍Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raduink/raduink/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raduink/raduink/output/snake.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/raduink/raduink/output/snake.svg" />
+</picture>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raduink&theme=github-compact&hide_border=true&hide_title=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1f1f1f&custom_title=Contribution%20activity" />
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff&hide_title=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=raduink&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b8b8b&dates=8b8b8b&stroke=2b2b2b" />
+
+<br><br>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=raduink&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+
+</div>
+
+<br>
+
 ## ▍Stack
 
 <div align="center">
@@ -139,25 +166,10 @@ Colaborez ca **PFA autorizat** — contract, factură fiscală și termene asuma
 | | |
 |:--|:--|
 | **Entitate** | RADU LAURENTIU-ANDREI PFA |
-| **CUI / CIF** | `55389763` |
+| **CUI / CIF** | 55389763 |
 | **Model** | Per proiect · Per oră · Retainer lunar |
 | **Facturare** | RON / EUR · factură fiscală |
 | **Disponibilitate** | Remote — EU / worldwide |
-
-</div>
-
-<br>
-
-## ▍GitHub
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff&hide_title=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=raduink&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b8b8b&dates=8b8b8b&stroke=2b2b2b" />
-
-<br><br>
-
-<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=raduink&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true" />
 
 </div>
 
