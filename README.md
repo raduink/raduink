@@ -139,7 +139,7 @@ Colaborez ca **PFA autorizat** — contract, factură fiscală și termene asuma
 | | |
 |:--|:--|
 | **Entitate** | RADU LAURENTIU-ANDREI PFA |
-| **CUI / CIF** | `de completat` |
+| **CUI / CIF** | `55389763` |
 | **Model** | Per proiect · Per oră · Retainer lunar |
 | **Facturare** | RON / EUR · factură fiscală |
 | **Disponibilitate** | Remote — EU / worldwide |
