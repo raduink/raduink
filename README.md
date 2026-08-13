@@ -118,11 +118,7 @@ Lucrez pe tot lanțul: arhitectură, backend, interfață și infrastructura pe 
 <br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff&hide_title=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=raduink&hide_border=true&background=00000000&stroke=2b2b2b&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8b8b8b&dates=8b8b8b" />
-
-<br><br>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=raduink&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=raduink&hide_border=true&background=00000000&stroke=2b2b2b&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8b8b8b&dates=8b8b8b" />
 
 </div>
 
