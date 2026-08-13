@@ -1,153 +1,159 @@
 <div align="center">
 
-<img src="icon.svg" width="110" alt="Radu Ink" />
+<img src="icon.svg" width="96" alt="Radu Ink" />
 
 <h1>Radu Laurentiu-Andrei</h1>
 
-<p><b>Full Stack Developer</b> · Building clean, modern & useful digital products.</p>
+<p>
+  <b>Full Stack Developer</b> &nbsp;·&nbsp; Founder of <b>Hirio</b><br>
+  <sub>I design and build products end-to-end — from infrastructure to interface.</sub>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=740&lines=Full+Stack+Developer+%E2%80%A2+Rom%C3%A2nia;Building+the+Hirio+ecosystem;hirio.ro+%E2%80%94+the+platform;app.hirio.ro+%E2%80%94+the+product;APIs+%E2%80%A2+Discord+%E2%80%A2+FiveM+%E2%80%A2+UI%2FUX" />
+<p>
+  <a href="https://app.hirio.ro"><img src="https://img.shields.io/badge/HirioDB-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="HirioDB" /></a>
+  <a href="https://hirio.ro"><img src="https://img.shields.io/badge/Hirio%20Hosting-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Hirio Hosting" /></a>
+  <a href="https://radu.ink"><img src="https://img.shields.io/badge/radu.ink-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Website" /></a>
+</p>
 
-<br><br>
-
-<a href="https://radu.ink"><img src="https://img.shields.io/badge/radu.ink-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" /></a>
-<a href="https://hirio.ro"><img src="https://img.shields.io/badge/hirio.ro-000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" /></a>
-<a href="https://app.hirio.ro"><img src="https://img.shields.io/badge/app.hirio.ro-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
-<a href="https://github.com/raduink"><img src="https://img.shields.io/badge/raduink-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=raduink&style=flat-square&color=000000&label=views" />
-<img src="https://img.shields.io/badge/status-available%20for%20work-00e676?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/PFA-RADU%20LAURENTIU--ANDREI-000000?style=flat-square&labelColor=000000" />
+<p>
+  <img src="https://img.shields.io/badge/România-0b0b0b?style=flat-square&labelColor=0b0b0b&color=8b8b8b" />
+  <img src="https://img.shields.io/badge/RADU%20LAURENTIU--ANDREI%20PFA-0b0b0b?style=flat-square&labelColor=0b0b0b&color=8b8b8b" />
+  <img src="https://img.shields.io/badge/available%20for%20work-0b0b0b?style=flat-square&labelColor=0b0b0b&color=00c853" />
+  <img src="https://komarev.com/ghpvc/?username=raduink&style=flat-square&color=0b0b0b&label=views" />
+</p>
 
 </div>
 
 <br>
 
-```
-──────────────────────────────────────────────────────────────
-  ▸  about
-──────────────────────────────────────────────────────────────
-```
+## ▍Products
+
+Two products under the **Hirio** brand — one live, one in the making.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="icon.svg" width="52" alt="" /><br>
+  <h3>HirioDB</h3>
+  <a href="https://app.hirio.ro"><code>app.hirio.ro</code></a><br>
+  <img src="https://img.shields.io/badge/live-0b0b0b?style=flat-square&labelColor=0b0b0b&color=00c853" />
+</div>
+
+<br>
+
+Platformă de date construită pentru viteză și claritate — structurare, interogare și administrare a informației dintr-o singură interfață.
+
+<br>
+
+`Next.js` `TypeScript` `PostgreSQL` `Supabase`
+
+<div align="center">
+  <br>
+  <a href="https://app.hirio.ro"><img src="https://img.shields.io/badge/Open%20app-000000?style=for-the-badge&logoColor=white&labelColor=000000" /></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="icon.svg" width="52" alt="" /><br>
+  <h3>Hirio Hosting</h3>
+  <a href="https://hirio.ro"><code>hirio.ro</code></a><br>
+  <img src="https://img.shields.io/badge/pre--launch-0b0b0b?style=flat-square&labelColor=0b0b0b&color=ffa000" />
+</div>
+
+<br>
+
+Firmă de hosting în pregătire de lansare — infrastructură modernă, panou propriu de administrare și suport în limba română.
+
+<br>
+
+`Linux` `Docker` `Cloudflare` `Node.js`
+
+<div align="center">
+  <br>
+  <a href="https://hirio.ro"><img src="https://img.shields.io/badge/Coming%20soon-0b0b0b?style=for-the-badge&logoColor=white&labelColor=0b0b0b" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ▍About
 
 ```ts
 const radu = {
-  handle:    "raduink",
-  location:  "România 🇷🇴",
-  role:      "Full Stack Developer & Builder",
-  entity:    "RADU LAURENTIU-ANDREI PFA",
-  stack:     ["TypeScript", "Next.js", "Node", "Supabase", "Tailwind"],
-  building:  ["hirio.ro", "app.hirio.ro", "open source APIs"],
-  focus:     ["Web Apps", "APIs", "Discord Bots", "FiveM", "UI/UX"],
-  mindset:   "Code. Build. Improve. Repeat."
+  handle:   "raduink",
+  role:     "Full Stack Developer & Founder",
+  entity:   "RADU LAURENTIU-ANDREI PFA",
+  location: "România",
+  building: ["HirioDB", "Hirio Hosting"],
+  focus:    ["Product engineering", "Web apps", "APIs", "Infrastructure", "UI/UX"],
+  mindset:  "Code. Build. Improve. Repeat.",
 } as const;
 ```
 
+Lucrez pe tot lanțul: arhitectură, backend, interfață și infrastructura pe care rulează totul. Prefer produse cu scope clar, cod curat și livrări în care se vede diferența.
+
 <br>
 
-```
-──────────────────────────────────────────────────────────────
-  ▸  hirio — the ecosystem
-──────────────────────────────────────────────────────────────
-```
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <br>
-      <img src="icon.svg" width="56" alt="" />
-      <h3>hirio.ro</h3>
-      <p><b>The platform</b></p>
-      <p>Site-ul public: landing, prezentare, joburi și punctul de intrare pentru candidați și companii.</p>
-      <a href="https://hirio.ro"><img src="https://img.shields.io/badge/Visit-hirio.ro-000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" /></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/SEO-000000?style=flat-square&logo=google&logoColor=white" />
-      <br><br>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br>
-      <img src="icon.svg" width="56" alt="" />
-      <h3>app.hirio.ro</h3>
-      <p><b>The product</b></p>
-      <p>Aplicația propriu-zisă: cont, dashboard, aplicări, management de anunțuri și tot ce ține de utilizatori.</p>
-      <a href="https://app.hirio.ro"><img src="https://img.shields.io/badge/Open-app.hirio.ro-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Auth-000000?style=flat-square&logo=auth0&logoColor=white" />
-      <br><br>
-    </td>
-  </tr>
-</table>
+## ▍Stack
 
 <div align="center">
 
-| | domeniu | rol | status |
-|:--|:--|:--|:--|
-| 🌐 | [`hirio.ro`](https://hirio.ro) | Marketing site & job listings | 🟢 live |
-| 🧩 | [`app.hirio.ro`](https://app.hirio.ro) | Dashboard, conturi & aplicări | 🟢 live |
-| 🔌 | `api.hirio.ro` | Backend & integrări | 🛠️ în lucru |
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,redis,prisma,mongodb&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,nginx,git,vscode&theme=dark" />
 
 </div>
 
 <br>
 
-```
-──────────────────────────────────────────────────────────────
-  ▸  other work
-──────────────────────────────────────────────────────────────
-```
+## ▍Services
+
+Colaborez ca **PFA autorizat** — contract, factură fiscală și termene asumate în scris.
 
 <table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔥 Open Source APIs</h3>
-      <p>APIs simple și utile pentru developeri, tooling și automatizări.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🤖 Discord Bots</h3>
-      <p>Boți custom, moderare, tickets și unelte pentru comunități.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎮 FiveM</h3>
-      <p>Scripturi, sisteme de backend, anti-cheat și utilitare de server.</p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<h4>Product engineering</h4>
+<p><sub>Aplicații web complete, de la primul commit până în producție. Next.js, TypeScript, baze de date relaționale.</sub></p>
+</td>
+<td width="33%" valign="top">
+<h4>APIs & integrări</h4>
+<p><sub>Servicii REST, autentificare, webhooks, automatizări și conectarea sistemelor între ele.</sub></p>
+</td>
+<td width="33%" valign="top">
+<h4>Infrastructure</h4>
+<p><sub>Deploy, containerizare, monitorizare, securizare și optimizare de costuri pe Linux & Cloudflare.</sub></p>
+</td>
+</tr>
 </table>
-
-<br>
-
-```
-──────────────────────────────────────────────────────────────
-  ▸  stack
-──────────────────────────────────────────────────────────────
-```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,docker,cloudflare,linux&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,discord,figma,postman&theme=dark" />
+| | |
+|:--|:--|
+| **Entitate** | RADU LAURENTIU-ANDREI PFA |
+| **CUI / CIF** | `de completat` |
+| **Model** | Per proiect · Per oră · Retainer lunar |
+| **Facturare** | RON / EUR · factură fiscală |
+| **Disponibilitate** | Remote — EU / worldwide |
 
 </div>
 
 <br>
 
-```
-──────────────────────────────────────────────────────────────
-  ▸  stats
-──────────────────────────────────────────────────────────────
-```
+## ▍GitHub
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff" />
-<img width="48%" src="https://streak-stats.demolab.com?user=raduink&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b8b8b&dates=8b8b8b&stroke=2e2e2e" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raduink&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b8b&icon_color=ffffff&hide_title=true" />
+<img width="48%" src="https://streak-stats.demolab.com?user=raduink&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b8b8b&dates=8b8b8b&stroke=2b2b2b" />
 
 <br><br>
 
@@ -157,16 +163,11 @@ const radu = {
 
 <br>
 
-```
-──────────────────────────────────────────────────────────────
-  ▸  work with me
-──────────────────────────────────────────────────────────────
-```
+## ▍Contact
 
 <div align="center">
 
-Lucrez ca **PFA autorizat** — colaborare cu contract, factură fiscală și termene clare.<br>
-Proiecte web, APIs, integrări și produse SaaS. Remote, EU / worldwide.
+Ai un proiect sau vrei să discutăm o colaborare?
 
 <br>
 
@@ -179,11 +180,7 @@ Proiecte web, APIs, integrări și produse SaaS. Remote, EU / worldwide.
 <br>
 
 <div align="center">
-
-<img src="icon.svg" width="42" alt="" />
-
-**Code. Build. Improve. Repeat.**
-
-<sub>© RADU LAURENTIU-ANDREI PFA · România</sub>
-
+  <img src="icon.svg" width="36" alt="" />
+  <p><sub><b>Code. Build. Improve. Repeat.</b></sub></p>
+  <p><sub>© RADU LAURENTIU-ANDREI PFA · România</sub></p>
 </div>
